@@ -1,0 +1,9 @@
+body {
+  background-image: url("/static/geral/img/bg1.svg");
+  background-size: cover;
+  height: 100vh;
+}
+
+p {
+  color: var(--light-color);
+}
